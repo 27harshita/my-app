@@ -1,0 +1,10 @@
+git status:for checking the status and checking the current branch
+git branch:for chekcing all the branches and the current branch
+git log:for chekcing the logs
+git checkout -b new_Branch_Name:for adding new branch
+git checkout existing_branch_name:for checking in any existing branch
+git clone git@github.com:27harshita/my-app.git:for cloning remote branch in local
+git add . :to add files in current branch
+git commit -m "write any meaningful message": for commiting the changes
+git push origin HEAD: for pushing changes to remote
+git pull: to copy changes from remote to local 
